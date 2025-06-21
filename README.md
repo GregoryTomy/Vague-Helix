@@ -14,7 +14,7 @@ As a huge fan of the original Neovim implementation by [vague2k](https://github.
 
 ## Preview
 
-![](vague-helix.jpeg)
+![](vague-helix.jpg)
 
 ## Installation
 
